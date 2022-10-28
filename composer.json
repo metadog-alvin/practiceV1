@@ -1,5 +1,5 @@
 {
-    "name": "alvin/composer-v1",
+    "name": "tagoAlvin/composer-v1",
     "require": {
         "php": "^8.0"
     },
