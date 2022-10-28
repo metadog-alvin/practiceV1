@@ -1,0 +1,17 @@
+{
+    "name": "alvin/composer-v1",
+    "require": {
+        "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alvin\\ComposerV1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alvin",
+            "email": "alvin@adpost.com.tw"
+        }
+    ]
+}
